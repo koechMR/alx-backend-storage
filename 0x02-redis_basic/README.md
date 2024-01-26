@@ -1,13 +1,6 @@
 # 0x02. Redis basic
 Back-end
 Redis
- By: Emmanuel Turlay, Staff Software Engineer at Cruise
- Weight: 1
- Project will start Jan 24, 2024 6:00 AM, must end by Jan 25, 2024 6:00 AM
- Checker will be released at Jan 24, 2024 12:00 PM
- An auto review will be launched at the deadline
-
-
 ## Resources
 Read or watch:
 
